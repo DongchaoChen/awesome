@@ -32,6 +32,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 
 ### AWS
 * [AWS awesome](https://github.com/donnemartin/awesome-aws)
+* [AWS cloud stack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline! 
 
 ### Azure
 
