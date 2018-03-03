@@ -7,9 +7,14 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
   * [Java](#java)
   * [Scala](#scala)
   * [NodeJS](#nodejs)
+- [Cloud](#cloud)
+  * [AWS](#aws)
+  * [Azure](#azure)
+  * [Google Cloud](#google-cloud)
 - [Databases](#databases)
 - [CI and CD](#ci-and-cd)
 - [Version Tools](#version-tools)
+- [Coding Challenge](#coding-challenge)
 
 ## Architecture Design
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer) - learn how to design large-scale systems.  
@@ -23,6 +28,14 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 
 ### NodeJS
 
+## Cloud
+
+### AWS
+* [AWS awesome](https://github.com/donnemartin/awesome-aws)
+
+### Azure
+
+### Google Cloud
 
 ## Databases
 
@@ -33,3 +46,6 @@ Continuous Integration (CI) and Continuous Delivery (CD)
 
 ## Version Tools
 * [Gogs](https://gogs.io/) - A painless self-hosted Git service
+
+## Coding Challenge
+* [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
