@@ -7,6 +7,8 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
   * [Java](#java)
   * [Scala](#scala)
   * [NodeJS](#nodejs)
+  * [Go](#go)
+  * [PowerShell](#powershell)
 - [Cloud](#cloud)
   * [AWS](#aws)
   * [Azure](#azure)
@@ -27,6 +29,11 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 * [Scala-Style-Guide](https://github.com/databricks/scala-style-guide) - the most updated Scala Style Coding Guide
 
 ### NodeJS
+
+### Go
+
+### PowerShell 
+* [PowerShell Conference Europe](https://github.com/psconfeu)
 
 ## Cloud
 
