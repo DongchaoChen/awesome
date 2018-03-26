@@ -16,8 +16,11 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
   * [Google Cloud](#google-cloud)
 - [Databases](#databases)
 - [CI and CD](#ci-and-cd)
+- [Virtualization](#virtualization)
+  * [Virtual Machine](#virtual-machine)  
 - [Version Tools](#version-tools)
 - [Coding Challenge](#coding-challenge)
+- [References](#references)
 
 ## Architecture Design
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer) - learn how to design large-scale systems.  
@@ -36,14 +39,14 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 
 ### Go
 
-### PowerShell 
+### PowerShell
 * [PowerShell Conference Europe](https://github.com/psconfeu)
 
 ## Cloud
 
 ### AWS
 * [AWS awesome](https://github.com/donnemartin/awesome-aws)
-* [AWS cloud stack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline! 
+* [AWS cloud stack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 
 ### Azure
 
@@ -56,8 +59,16 @@ Continuous Integration (CI) and Continuous Delivery (CD)
 * [Concourse](https://concourse.ci/) - a pipeline-based CI system written in Go
 * [Spinnaker](https://www.spinnaker.io/) - multi-cloud continuous delivery platform  
 
+## Virtualization
+
+### Virtual Machine
+* [Vim Cheat Sheet](https://vim.rtorr.com/)
+
 ## Version Tools
 * [Gogs](https://gogs.io/) - A painless self-hosted Git service
 
 ## Coding Challenge
 * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
+
+## References
+* [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
