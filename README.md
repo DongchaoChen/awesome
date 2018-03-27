@@ -15,6 +15,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
   * [Azure](#azure)
   * [Google Cloud](#google-cloud)
 - [Databases](#databases)
+  * [Cassandra](#cassandra)
 - [CI and CD](#ci-and-cd)
 - [Virtualization](#virtualization)
   * [Virtual Machine](#virtual-machine)  
@@ -53,6 +54,9 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 ### Google Cloud
 
 ## Databases
+
+### Cassandra
+* [CQL for Cassandra 3.0](https://docs.datastax.com/en/cql/3.3/)
 
 ## CI and CD
 Continuous Integration (CI) and Continuous Delivery (CD)
