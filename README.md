@@ -37,6 +37,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 ### Java
 
 #### Spring
+* [Spring Guides](https://github.com/spring-guides) - repositories behind the Getting Started and Tutorial guides at spring.io
 * [spring-boot-testing-strategies](https://github.com/mechero/spring-boot-testing-strategies)
 
 
