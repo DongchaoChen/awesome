@@ -27,6 +27,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 
 ## Architecture Design
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer) - learn how to design large-scale systems.  
+* [Swagger Core library](https://github.com/swagger-api/swagger-core)
 
 ## Agile
 * [Scaled Agile](https://www.scaledagileframework.com/)
@@ -35,10 +36,15 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 
 ### Java
 
+#### Spring
+* [spring-boot-testing-strategies](https://github.com/mechero/spring-boot-testing-strategies)
+
+
 ### Scala
 * [Scala-Style-Guide](https://github.com/databricks/scala-style-guide) - the most updated Scala Style Coding Guide
 
 ### NodeJS
+* [javascript-conferences](https://github.com/tech-conferences/javascript-conferences) - List of conferences for frontend and Node.js developers https://confs.tech/
 
 ### Go
 
