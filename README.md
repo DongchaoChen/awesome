@@ -14,6 +14,8 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
   * [AWS](#aws)
   * [Azure](#azure)
   * [Google Cloud](#google-cloud)
+- [Test](#test)
+  * [Jest](#jest)
 - [Databases](#databases)
   * [Cassandra](#cassandra)
 - [CI and CD](#ci-and-cd)
@@ -61,6 +63,12 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 ### Azure
 
 ### Google Cloud
+
+
+## Test
+### Jest
+* [awesome-jest](https://github.com/jest-community/awesome-jest)
+* [jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet)
 
 ## Databases
 
