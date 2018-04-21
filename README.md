@@ -9,6 +9,11 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
     * [Spring](#spring)
   * [Scala](#scala)
   * [JavaScript](#javascript)
+    * [Angular](#angular)
+    * [AngularJS](#angularjs)
+    * [BackboneJS](#backbonejs)
+    * [React](#react)
+    * [VueJS](#vuejs)
   * [NodeJS](#nodejs)
   * [Go](#go)
   * [PowerShell](#powershell)
@@ -52,9 +57,24 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 * [MDN JavaScript Guide](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide)
 * [airbnb/javascript](https://github.com/airbnb/javascript) - AirBnb Javascript Style Guide
 
+#### Angular
+* [Angular](https://angular.io/)
+
+#### AngularJS
+* [AngularJS](https://angularjs.org/)
+
+#### BackboneJS
+* [BackboneJS](http://backbonejs.org/)
+
+#### React
+* [React](https://reactjs.org/)
+
+#### VueJS
+* [VueJS](https://vuejs.org/)
+
+
 ### NodeJS
 * [javascript-conferences](https://github.com/tech-conferences/javascript-conferences) - List of conferences for frontend and Node.js developers https://confs.tech/
-*
 
 ### Go
 
@@ -68,6 +88,8 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 * [AWS cloud stack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 
 ### Azure
+* [AzureBootCamp2018-Montreal/Ottawa](https://github.com/MSDEVMTL/GlobalAzureBootcamp2018)
+* [Azure Cosmos DB training session](https://azure.microsoft.com/en-us/blog/get-started-with-azure-cosmos-db-through-this-technical-training-series/)
 
 ### Google Cloud
 
