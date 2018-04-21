@@ -4,6 +4,9 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 ## Contents
 - [Architecture Design](#architecture-design)
 - [Agile](#agile)
+- [Artificial Intelligence](#artificial-intelligence)
+- [Big Data](#big-data)
+- [Data Science](#data-science)
 - [Programming Languages](#programming-languages)
   * [Java](#java)
     * [Spring](#spring)
@@ -40,6 +43,17 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 
 ## Agile
 * [Scaled Agile](https://www.scaledagileframework.com/)
+
+## Artificial Intelligence
+* [Microsoft AI track training](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
+* [Microsoft AI blog](https://blogs.microsoft.com/ai/)
+* [AI School](https://aischool.microsoft.com/learning-paths)
+
+## Big Data
+* [Microsoft Big Data track training](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
+
+## Data Science
+* [Microsoft Data Science track training](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 
 ## Programming Languages
 
