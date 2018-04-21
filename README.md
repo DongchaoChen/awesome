@@ -104,6 +104,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 ### Azure
 * [AzureBootCamp2018-Montreal/Ottawa](https://github.com/MSDEVMTL/GlobalAzureBootcamp2018)
 * [Azure Cosmos DB training session](https://azure.microsoft.com/en-us/blog/get-started-with-azure-cosmos-db-through-this-technical-training-series/)
+* [Azure PowerShell](https://github.com/Azure/azure-powershell)
 
 ### Google Cloud
 
