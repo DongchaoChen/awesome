@@ -6,7 +6,9 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 - [Agile](#agile)
 - [Programming Languages](#programming-languages)
   * [Java](#java)
+    * [Spring](#spring)
   * [Scala](#scala)
+  * [JavaScript](#javascript)
   * [NodeJS](#nodejs)
   * [Go](#go)
   * [PowerShell](#powershell)
@@ -46,8 +48,13 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 ### Scala
 * [Scala-Style-Guide](https://github.com/databricks/scala-style-guide) - the most updated Scala Style Coding Guide
 
+### JavaScript
+* [MDN JavaScript Guide](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide)
+* [airbnb/javascript](https://github.com/airbnb/javascript) - AirBnb Javascript Style Guide
+
 ### NodeJS
 * [javascript-conferences](https://github.com/tech-conferences/javascript-conferences) - List of conferences for frontend and Node.js developers https://confs.tech/
+*
 
 ### Go
 
