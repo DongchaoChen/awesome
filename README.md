@@ -33,6 +33,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
   * [Virtual Machine](#virtual-machine)  
 - [Version Tools](#version-tools)
 - [Coding Challenge](#coding-challenge)
+- [Dev Tools](#dev-tools)
 - [Security](#security)
   * [Hack Tools](#hack-tools)
 - [References](#references)
@@ -135,8 +136,10 @@ Continuous Integration (CI) and Continuous Delivery (CD)
 ## Coding Challenge
 * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
-## Security
+## Dev Tools
+* [RegExr](https://regexr.com/) - for regular expression
 
+## Security
 ### Hack Tools
 * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool play with Windows Security
 
