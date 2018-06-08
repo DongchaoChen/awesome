@@ -101,6 +101,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 ### AWS
 * [AWS awesome](https://github.com/donnemartin/awesome-aws)
 * [AWS cloud stack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
+* [AWS Quick Start](https://github.com/aws-quickstart) - Automated gold-standard deployment on AWS
 
 ### Azure
 * [AzureBootCamp2018-Montreal/Ottawa](https://github.com/MSDEVMTL/GlobalAzureBootcamp2018)
