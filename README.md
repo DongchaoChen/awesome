@@ -20,6 +20,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
     * [VueJS](#vuejs)
   * [NodeJS](#nodejs)
   * [Go](#go)
+  * [Bash](#bash)
   * [PowerShell](#powershell)
 - [Cloud](#cloud)
   * [AWS](#aws)
@@ -100,6 +101,9 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 * [javascript-conferences](https://github.com/tech-conferences/javascript-conferences) - List of conferences for frontend and Node.js developers https://confs.tech/
 
 ### Go
+
+### Bash 
+* [The Bash Hackers Wiki](http://wiki.bash-hackers.org)
 
 ### PowerShell
 * [PowerShell Conference Europe](https://github.com/psconfeu)
