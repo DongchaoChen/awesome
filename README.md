@@ -104,6 +104,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 
 ### Bash 
 * [The Bash Hackers Wiki](http://wiki.bash-hackers.org)
+* [Linux Shell Scripting](https://bash.cyberciti.biz/guide/Main_Page)
 
 ### PowerShell
 * [PowerShell Conference Europe](https://github.com/psconfeu)
