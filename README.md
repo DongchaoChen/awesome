@@ -56,7 +56,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 * [Microsoft AI blog](https://blogs.microsoft.com/ai/)
 * [AI School](https://aischool.microsoft.com/learning-paths)
 
-## Machine Learning 
+## Machine Learning
 * [Friendly Machine Learning for the Web](https://ml5js.org/)
 
 ## Big Data
@@ -102,7 +102,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 
 ### Go
 
-### Bash 
+### Bash
 * [The Bash Hackers Wiki](http://wiki.bash-hackers.org)
 * [Linux Shell Scripting](https://bash.cyberciti.biz/guide/Main_Page)
 
@@ -126,9 +126,10 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 ## Containers
 ### Docker
 - [Docker Tips, Tricks and Tutorials](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
+- [Play with Docker Classroom](https://training.play-with-docker.com/)
 
-## Network 
-### NSO 
+## Network
+### NSO
 - [NSO developer](https://github.com/NSO-developer)
 
 ## Test
