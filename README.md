@@ -131,6 +131,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 ### Kubernetes
 - [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodly kills random pods in your K8s cluster
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A K8s controller and tool for one-way encrypted secrets.
+- [bitnami-labs/kubectl-import](https://github.com/bitnami-labs/kubectl-import)
 
 ## Network
 ### NSO
