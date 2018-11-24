@@ -127,6 +127,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 ### Docker
 - [Docker Tips, Tricks and Tutorials](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 - [Play with Docker Classroom](https://training.play-with-docker.com/)
+- [Docker Ottawa Meetup](https://github.com/DockerOttawaMeetup)
 
 ### Kubernetes
 - [linki/chaoskube](https://github.com/linki/chaoskube) - chaoskube periodly kills random pods in your K8s cluster
