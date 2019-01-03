@@ -105,6 +105,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 ### Bash
 * [The Bash Hackers Wiki](http://wiki.bash-hackers.org)
 * [Linux Shell Scripting](https://bash.cyberciti.biz/guide/Main_Page)
+* [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - a nice static analysis tool  
 
 ### PowerShell
 * [PowerShell Conference Europe](https://github.com/psconfeu)
@@ -120,6 +121,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 * [AzureBootCamp2018-Montreal/Ottawa](https://github.com/MSDEVMTL/GlobalAzureBootcamp2018)
 * [Azure Cosmos DB training session](https://azure.microsoft.com/en-us/blog/get-started-with-azure-cosmos-db-through-this-technical-training-series/)
 * [Azure PowerShell](https://github.com/Azure/azure-powershell)
+* [Azure docs](https://docs.microsoft.com/en-us/azure/)
 
 ### Google Cloud
 
