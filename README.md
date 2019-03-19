@@ -13,6 +13,7 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
     * [Spring](#spring)
   * [Scala](#scala)
   * [JavaScript](#javascript)
+    * [General](#general)
     * [Angular](#angular)
     * [AngularJS](#angularjs)
     * [BackboneJS](#backbonejs)
@@ -81,6 +82,9 @@ A list of awesome resources for my own usage. You can refer to [awesome](https:/
 ### JavaScript
 * [MDN JavaScript Guide](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide)
 * [airbnb/javascript](https://github.com/airbnb/javascript) - AirBnb Javascript Style Guide
+
+#### General 
+* [module can I use it](https://caniuse.com/#search=modules)
 
 #### Angular
 * [Angular](https://angular.io/)
